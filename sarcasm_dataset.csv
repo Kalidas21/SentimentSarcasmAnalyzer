@@ -1,0 +1,706 @@
+Sentence,Label
+"I'm not upset, just extremely delighted.",1
+"Wow, great job on completely ignoring what I said.",1
+"Oh, fantastic, another Monday morning. Yay.",1
+I totally love waiting in long queues for no reason.,1
+"Sure, because I have nothing better to do.",1
+"Oh great, more homework. Just what I needed.",1
+"Yeah, I really wanted it to rain on my wedding day.",1
+I'm so glad you pointed out the obvious.,1
+This meeting could definitely not have been an email.,1
+"Lovely, my phone died again, how fun.",1
+"Awesome, the internet's down again.",1
+"Great, I missed the bus by just two seconds.",1
+"Just what I wanted, spam emails all day.",1
+"Wow, that wasn’t confusing at all.",1
+"Oh sure, I’d love to work overtime for free.",1
+My favorite thing is when people interrupt me.,1
+I'm not tired at all after working 14 hours straight.,1
+Love it when my plans get canceled last minute.,1
+"Yes, do tell me more about your cat’s sleeping habits.",1
+"Yay, another unexpected software update!",1
+I live for awkward small talk.,1
+"Perfect, the elevator is out of order again.",1
+"Yeah, talking to customer service is my hobby.",1
+I absolutely adore traffic jams.,1
+"Oh wow, a surprise quiz! You shouldn't have.",1
+Best idea ever—doing taxes on a weekend.,1
+"Oh, another Zoom meeting? I'm thrilled.",1
+Of course I’m listening. I just love hearing this story for the fifth time.,1
+"Nice, the printer jammed again.",1
+"Sure, leave all the dishes for me, I insist.",1
+"Oh brilliant, the neighbor’s dog is barking at 2 AM again.",1
+"Fantastic, I dropped my phone face down.",1
+"I'm so lucky, my coffee spilled on my report.",1
+Isn’t it lovely when people chew loudly?,1
+"Oh, I love when my favorite show gets cancelled.",1
+"Amazing, now my car won't start.",1
+"Yay, the power went out in the middle of my game.",1
+Nothing says fun like stepping on a Lego.,1
+"Wow, I really enjoy unsolicited advice.",1
+Perfect weather for a picnic—if you love thunderstorms.,1
+I’m not cold at all in this blizzard with no coat.,1
+"Oh, I didn’t need sleep anyway.",1
+"Yay, more emails I’ll never read.",1
+Love it when my alarm goes off on my day off.,1
+That was the most helpful error message ever.,1
+"Oh, awesome, a 3-hour line for coffee.",1
+"Brilliant, I locked myself out again.",1
+I was hoping someone would steal my lunch from the fridge.,1
+Of course your 45-minute monologue was captivating.,1
+"Oh, I love when people block the entire aisle.",1
+Fantastic timing—now it starts raining.,1
+"Yes, I love buffering videos.",1
+"Oh yes, tell me more about how I should live my life.",1
+I'm very happy with the results.,0
+Thank you for your help today.,0
+The weather is beautiful outside.,0
+I enjoyed the movie last night.,0
+You did a great job on your presentation.,0
+Looking forward to the weekend.,0
+I had a great lunch with friends.,0
+She is very kind and thoughtful.,0
+The baby smiled at me.,0
+He passed the test with flying colors.,0
+The sunset looks amazing.,0
+That was a delicious meal.,0
+Congratulations on your promotion!,0
+She really cares about her team.,0
+The hike today was refreshing.,0
+I'm grateful for your support.,0
+I love spending time with my family.,0
+He's very talented at painting.,0
+This music is so relaxing.,0
+They are very supportive colleagues.,0
+I'm excited for the concert tonight.,0
+The flowers are blooming beautifully.,0
+I appreciate your honesty.,0
+It’s nice to take a break sometimes.,0
+He gave a very inspiring speech.,0
+The kids played happily in the yard.,0
+She always has a positive attitude.,0
+That was a fun game.,0
+He handled the situation well.,0
+I'm proud of what we accomplished.,0
+That’s a very thoughtful gift.,0
+The cake you made is delicious.,0
+It was great catching up with you.,0
+She sings beautifully.,0
+The puppy is so playful.,0
+He always keeps his promises.,0
+They worked hard to finish the project.,0
+I really enjoy reading this book.,0
+The lake was so calm and peaceful.,0
+You're a great listener.,0
+We had a wonderful time at the park.,0
+Thanks for being there for me.,0
+I'm glad we talked.,0
+She handled the news with grace.,0
+This view is breathtaking.,0
+That was a very helpful tutorial.,0
+He’s learning very quickly.,0
+I'm happy to be part of this team.,0
+This tea tastes amazing.,0
+You look great today.,0
+I'm looking forward to our next meeting.,0
+im happy,0
+Great timing.,1
+Nice move.,1
+So helpful.,1
+"Wow, genius.",1
+Perfect plan.,1
+Love that.,1
+Super smart.,1
+"Bravo, really.",1
+"Oh, brilliant.",1
+So original.,1
+Of course you did.,1
+Just wonderful.,1
+Exactly what I needed.,1
+Impressive fail.,1
+Really nailed it.,1
+Amazing effort.,1
+You're so clever.,1
+What a surprise.,1
+Totally expected.,1
+"No way, right?",1
+"Oh, because ignoring advice always works out so well.",1
+Fantastic idea to forget your umbrella when it's raining.,1
+Thanks for being so incredibly late again.,1
+Another traffic jam? Lucky me.,1
+Nothing says relaxation like a broken AC in summer.,1
+"Wow, great way to avoid doing anything useful.",1
+"Brilliant, more forms to fill out.",1
+I really enjoy redoing all that work you deleted.,1
+"Sure, I’ll just drop everything for you.",1
+"Great, now the printer ran out of ink again.",1
+"Because who needs lunch breaks, right?",1
+"Yay, my favorite—waiting on hold for 30 minutes.",1
+Perfect! The deadline got moved up. Again.,1
+How convenient that everything went wrong today.,1
+"Lovely, another last-minute change of plans.",1
+Well done ignoring everything I said.,1
+That was totally not frustrating at all.,1
+Thanks for your helpful silence.,1
+"Oh, I wasn’t using that charger anyway.",1
+Such a smooth and flawless process!,1
+This is the most productive meeting ever.,1
+"Sure, I trust your math… not.",1
+Perfect use of our time. Truly.,1
+"Oh yes, tell me that again.",1
+So glad I stayed up all night for this.,1
+Nice of you to remember... finally.,1
+"Awesome, I just stepped in gum.",1
+"Amazing, I missed the train by two seconds.",1
+Thanks for sending the file—two hours late.,1
+"Sure, take your sweet time.",1
+"How refreshing, another cold coffee.",1
+Because broken links are fun to click.,1
+I totally love repeating myself 10 times.,1
+Best surprise ever—forgot my password again.,1
+"Great, my browser crashed again.",1
+"Wow, that totally worked… not.",1
+"Incredible, I spilled coffee on my notes.",1
+So efficient to meet with no agenda.,1
+"Wonderful, they lost my order again.",1
+"Fantastic, more spam calls during lunch.",1
+Love it when you talk over me.,1
+Nice weather for a tornado.,1
+I'm so glad you reminded me 10 times.,1
+"Another pop quiz? Yay, surprise!",1
+Great job not proofreading your email.,1
+"Yes, I just love long updates mid-task.",1
+"How lucky, the power is out again.",1
+Awesome—my screen froze during the test.,1
+That was the cleanest mess I've ever seen.,1
+Impressed with your passive-aggressive reply.,1
+Truly inspired by that last-minute panic.,1
+Great timing.,1
+Nice move.,1
+So helpful.,1
+"Wow, genius.",1
+Perfect plan.,1
+Love that.,1
+Super smart.,1
+"Bravo, really.",1
+"Oh, brilliant.",1
+So original.,1
+Of course you did.,1
+Just wonderful.,1
+Exactly what I needed.,1
+Impressive fail.,1
+Really nailed it.,1
+Amazing effort.,1
+You're so clever.,1
+What a surprise.,1
+Totally expected.,1
+"No way, right?",1
+"Oh, because ignoring advice always works out so well.",1
+Fantastic idea to forget your umbrella when it's raining.,1
+Thanks for being so incredibly late again.,1
+Another traffic jam? Lucky me.,1
+Nothing says relaxation like a broken AC in summer.,1
+"Wow, great way to avoid doing anything useful.",1
+"Brilliant, more forms to fill out.",1
+I really enjoy redoing all that work you deleted.,1
+"Sure, I’ll just drop everything for you.",1
+"Great, now the printer ran out of ink again.",1
+"Because who needs lunch breaks, right?",1
+"Yay, my favorite—waiting on hold for 30 minutes.",1
+Perfect! The deadline got moved up. Again.,1
+How convenient that everything went wrong today.,1
+"Lovely, another last-minute change of plans.",1
+Well done ignoring everything I said.,1
+That was totally not frustrating at all.,1
+Thanks for your helpful silence.,1
+"Oh, I wasn’t using that charger anyway.",1
+Such a smooth and flawless process!,1
+This is the most productive meeting ever.,1
+"Sure, I trust your math… not.",1
+Perfect use of our time. Truly.,1
+"Oh yes, tell me that again.",1
+So glad I stayed up all night for this.,1
+Nice of you to remember... finally.,1
+"Awesome, I just stepped in gum.",1
+"Amazing, I missed the train by two seconds.",1
+Thanks for sending the file—two hours late.,1
+"Sure, take your sweet time.",1
+"How refreshing, another cold coffee.",1
+Because broken links are fun to click.,1
+I totally love repeating myself 10 times.,1
+Best surprise ever—forgot my password again.,1
+"Great, my browser crashed again.",1
+"Wow, that totally worked… not.",1
+"Incredible, I spilled coffee on my notes.",1
+So efficient to meet with no agenda.,1
+"Wonderful, they lost my order again.",1
+"Fantastic, more spam calls during lunch.",1
+Love it when you talk over me.,1
+Nice weather for a tornado.,1
+I'm so glad you reminded me 10 times.,1
+"Another pop quiz? Yay, surprise!",1
+Great job not proofreading your email.,1
+"Yes, I just love long updates mid-task.",1
+"How lucky, the power is out again.",1
+Awesome—my screen froze during the test.,1
+That was the cleanest mess I've ever seen.,1
+Impressed with your passive-aggressive reply.,1
+Truly inspired by that last-minute panic.,1
+Great timing.,1
+Nice move.,1
+So helpful.,1
+"Wow, genius.",1
+Perfect plan.,1
+Love that.,1
+Super smart.,1
+"Bravo, really.",1
+"Oh, brilliant.",1
+So original.,1
+Of course you did.,1
+Just wonderful.,1
+Exactly what I needed.,1
+Impressive fail.,1
+Really nailed it.,1
+Amazing effort.,1
+You're so clever.,1
+What a surprise.,1
+Totally expected.,1
+"No way, right?",1
+"Oh, because ignoring advice always works out so well.",1
+Fantastic idea to forget your umbrella when it's raining.,1
+Thanks for being so incredibly late again.,1
+Another traffic jam? Lucky me.,1
+Nothing says relaxation like a broken AC in summer.,1
+"Wow, great way to avoid doing anything useful.",1
+"Brilliant, more forms to fill out.",1
+I really enjoy redoing all that work you deleted.,1
+"Sure, I’ll just drop everything for you.",1
+"Great, now the printer ran out of ink again.",1
+"Because who needs lunch breaks, right?",1
+"Yay, my favorite—waiting on hold for 30 minutes.",1
+Perfect! The deadline got moved up. Again.,1
+How convenient that everything went wrong today.,1
+"Lovely, another last-minute change of plans.",1
+Well done ignoring everything I said.,1
+That was totally not frustrating at all.,1
+Thanks for your helpful silence.,1
+"Oh, I wasn’t using that charger anyway.",1
+Such a smooth and flawless process!,1
+This is the most productive meeting ever.,1
+"Sure, I trust your math… not.",1
+Perfect use of our time. Truly.,1
+"Oh yes, tell me that again.",1
+So glad I stayed up all night for this.,1
+Nice of you to remember... finally.,1
+"Awesome, I just stepped in gum.",1
+"Amazing, I missed the train by two seconds.",1
+Thanks for sending the file—two hours late.,1
+"Sure, take your sweet time.",1
+"How refreshing, another cold coffee.",1
+Because broken links are fun to click.,1
+I totally love repeating myself 10 times.,1
+Best surprise ever—forgot my password again.,1
+"Great, my browser crashed again.",1
+"Wow, that totally worked… not.",1
+"Incredible, I spilled coffee on my notes.",1
+So efficient to meet with no agenda.,1
+Well done.,0
+Thank you.,0
+Good work.,0
+Nice try.,0
+Sounds good.,0
+Great idea.,0
+I agree.,0
+Let's go.,0
+Be safe.,0
+Take care.,0
+Keep going.,0
+Looks great.,0
+All set.,0
+Well spoken.,0
+Stay positive.,0
+I understand.,0
+No problem.,0
+You're welcome.,0
+I'm ready.,0
+So sweet.,0
+Thanks for helping me today.,0
+I really appreciate your support.,0
+The weather is nice today.,0
+She handled the situation very well.,0
+He gave an excellent presentation.,0
+Let’s meet tomorrow to finalize the plan.,0
+They worked really hard on this project.,0
+This solution is clear and effective.,0
+I'm happy with the outcome.,0
+You're doing a great job.,0
+That’s a kind thing to do.,0
+I love spending time with you.,0
+We had a relaxing weekend trip.,0
+The kids were laughing all day.,0
+She’s a very honest person.,0
+Please take your time to review it.,0
+He completed the task efficiently.,0
+Your insights were very helpful.,0
+This book was really interesting.,0
+Let me know if you need help.,0
+We’re proud of your achievements.,0
+The system is working as expected.,0
+It was a pleasure meeting you.,0
+The dog is very friendly.,0
+She’s great with children.,0
+Everything looks organized and clean.,0
+He followed the instructions perfectly.,0
+I enjoyed our conversation.,0
+Thank you for the thoughtful gift.,0
+Let’s start when you’re ready.,0
+I like your attitude.,0
+They’ve made great progress.,0
+That’s a great solution.,0
+You’re always so polite.,0
+Her feedback was encouraging.,0
+The meal was delicious.,0
+I trust your decision.,0
+They deserve the credit.,0
+You were very patient.,0
+This will help a lot.,0
+That’s a smart approach.,0
+You handled it gracefully.,0
+I’m confident in your plan.,0
+We’re lucky to have you.,0
+That color looks good on you.,0
+You’ve made my day.,0
+We’re making steady progress.,0
+I admire your dedication.,0
+That’s a beautiful design.,0
+The instructions are easy to follow.,0
+Well done.,0
+Thank you.,0
+Good work.,0
+Nice try.,0
+Sounds good.,0
+Great idea.,0
+I agree.,0
+Let's go.,0
+Be safe.,0
+Take care.,0
+Keep going.,0
+Looks great.,0
+All set.,0
+Well spoken.,0
+Stay positive.,0
+I understand.,0
+No problem.,0
+You're welcome.,0
+I'm ready.,0
+So sweet.,0
+Thanks for helping me today.,0
+I really appreciate your support.,0
+The weather is nice today.,0
+She handled the situation very well.,0
+He gave an excellent presentation.,0
+Let’s meet tomorrow to finalize the plan.,0
+They worked really hard on this project.,0
+This solution is clear and effective.,0
+I'm happy with the outcome.,0
+You're doing a great job.,0
+That’s a kind thing to do.,0
+I love spending time with you.,0
+We had a relaxing weekend trip.,0
+The kids were laughing all day.,0
+She’s a very honest person.,0
+Please take your time to review it.,0
+He completed the task efficiently.,0
+Your insights were very helpful.,0
+This book was really interesting.,0
+Let me know if you need help.,0
+We’re proud of your achievements.,0
+The system is working as expected.,0
+It was a pleasure meeting you.,0
+The dog is very friendly.,0
+She’s great with children.,0
+Everything looks organized and clean.,0
+He followed the instructions perfectly.,0
+I enjoyed our conversation.,0
+Thank you for the thoughtful gift.,0
+Let’s start when you’re ready.,0
+I like your attitude.,0
+They’ve made great progress.,0
+That’s a great solution.,0
+You’re always so polite.,0
+Her feedback was encouraging.,0
+The meal was delicious.,0
+I trust your decision.,0
+They deserve the credit.,0
+You were very patient.,0
+This will help a lot.,0
+That’s a smart approach.,0
+You handled it gracefully.,0
+I’m confident in your plan.,0
+We’re lucky to have you.,0
+That color looks good on you.,0
+You’ve made my day.,0
+We’re making steady progress.,0
+I admire your dedication.,0
+That’s a beautiful design.,0
+The instructions are easy to follow.,0
+Well done.,0
+Thank you.,0
+Good work.,0
+Nice try.,0
+Sounds good.,0
+Great idea.,0
+I agree.,0
+Let's go.,0
+Be safe.,0
+Take care.,0
+Keep going.,0
+Looks great.,0
+All set.,0
+Well spoken.,0
+Stay positive.,0
+I understand.,0
+No problem.,0
+You're welcome.,0
+I'm ready.,0
+So sweet.,0
+Thanks for helping me today.,0
+I really appreciate your support.,0
+The weather is nice today.,0
+She handled the situation very well.,0
+He gave an excellent presentation.,0
+Let’s meet tomorrow to finalize the plan.,0
+They worked really hard on this project.,0
+This solution is clear and effective.,0
+I'm happy with the outcome.,0
+You're doing a great job.,0
+That’s a kind thing to do.,0
+I love spending time with you.,0
+We had a relaxing weekend trip.,0
+The kids were laughing all day.,0
+She’s a very honest person.,0
+Please take your time to review it.,0
+He completed the task efficiently.,0
+Your insights were very helpful.,0
+This book was really interesting.,0
+Let me know if you need help.,0
+We’re proud of your achievements.,0
+The system is working as expected.,0
+It was a pleasure meeting you.,0
+The dog is very friendly.,0
+She’s great with children.,0
+Everything looks organized and clean.,0
+He followed the instructions perfectly.,0
+I enjoyed our conversation.,0
+Thank you for the thoughtful gift.,0
+Let’s start when you’re ready.,0
+I like your attitude.,0
+They’ve made great progress.,0
+That’s a great solution.,0
+You’re always so polite.,0
+Her feedback was encouraging.,0
+The meal was delicious.,0
+I trust your decision.,0
+They deserve the credit.,0
+You were very patient.,0
+This will help a lot.,0
+Good job!,0
+Nice work!,0
+All the best!,0
+Take care!,0
+Drive safe!,0
+You're amazing!,0
+Keep going!,0
+Stay strong!,0
+Thank you!,0
+I agree!,0
+Be kind.,0
+Stay focused.,0
+Well played!,0
+Enjoy the moment.,0
+Rest well.,0
+Sleep tight.,0
+No worries.,0
+I'm here.,0
+You’re welcome.,0
+Trust yourself.,0
+Have fun!,0
+All okay now.,0
+Feeling better today?,0
+You're right.,0
+Got it.,0
+All set!,0
+Looks great!,0
+So sweet!,0
+No problem.,0
+Well done!,0
+Try again.,0
+All yours.,0
+Go for it.,0
+Much appreciated.,0
+Good luck!,0
+See you soon.,0
+I’m fine.,0
+It’s okay.,0
+Sure thing!,0
+Well said.,0
+You got this.,0
+Cool idea!,0
+That’s right.,0
+You did well.,0
+So proud!,0
+Can do!,0
+On my way.,0
+Sounds good!,0
+Of course!,0
+"Yes, sure!",0
+For sure!,0
+Very helpful!,0
+I’m happy.,0
+Stay happy.,0
+Feels nice.,0
+So peaceful.,0
+That’s kind.,0
+Such joy!,0
+Truly thankful.,0
+Go ahead.,0
+Do your best.,0
+Love that!,0
+Much love!,0
+Nice effort!,0
+He’s right.,0
+She’s kind.,0
+You’re sweet.,0
+Super effort!,0
+All smiles!,0
+Bless you!,0
+No doubt.,0
+True words.,0
+Stay strong!,0
+Smile more.,0
+You’re calm.,0
+He’s honest.,0
+That’s polite.,0
+She’s smart.,0
+Feel better!,0
+That’s okay.,0
+Keep smiling!,0
+So relaxed.,0
+All yours.,0
+Fine with me.,0
+Looking good!,0
+All clear.,0
+Be patient.,0
+Keep calm.,0
+So nice!,0
+Try hard!,0
+Don’t worry.,0
+That helps.,0
+Well explained.,0
+You matter.,0
+You’re right!,0
+Sounds fine.,0
+I agree.,0
+You're helpful.,0
+Thanks again!,0
+Take this.,0
+Be happy!,0
+Stay safe!,0
+I forgive you.,0
+Come soon!,0
+Let’s relax.,0
+I got this.,0
+No stress.,0
+Be wise.,0
+Very clear.,0
+So gentle.,0
+He cares.,0
+You’re honest.,0
+Feel safe.,0
+Very fair.,0
+Be yourself.,0
+Do well.,0
+You're strong.,0
+She’s great.,0
+So chill.,0
+Nicely done.,0
+No issues.,0
+So true.,0
+As expected.,0
+Nicely handled.,0
+All good!,0
+Well spoken.,0
+Truly fair.,0
+You’re fast!,0
+So helpful!,0
+That works!,0
+Makes sense.,0
+No complaints.,0
+I’m impressed.,0
+How kind!,0
+Easy task.,0
+So smooth.,0
+All done!,0
+He’s clear.,0
+Works well.,0
+I trust you.,0
+Safe journey!,0
+She’s calm.,0
+Do relax.,0
+Very smart.,0
+Quite fine.,0
+Perfect view!,0
+How polite!,0
+So soft!,0
+Enjoy this.,0
+No tension.,0
+So proud!,0
+You’re amazing!,0
+That’s true.,0
+I liked it.,0
+Really nice!,0
+Cool moment!,0
+Keep it up!,0
+Looking better.,0
+Let’s try!,0
+Always smiling.,0
+Stay sweet.,0
+It’s perfect.,0
+Calm day.,0
+That’s cute!,0
+Go on.,0
+Fine move!,0
+No big deal.,0
+Be quick!,0
+Feel great!,0
+Very true.,0
+"Thanks, friend!",0
+Feel fresh!,0
+Best day.,0
+She’s right.,0
+Done nicely.,0
+That fits!,0
+Not bad!,0
+It’s fresh!,0
+Safe hands!,0
+Nice work!,0
+Keep safe!,0
+She agrees.,0
+Very kind!,0
+What peace!,0
+Well noted!,0
+Truly sweet.,0
+Makes me smile.,0
+No errors.,0
+You’re focused.,0
+Very decent.,0
+I agree fully.,0
+Totally fine.,0
+Kind smile.,0
+Well done there!,0
+It helps.,0
+Nice vibe!,0
+Okay then!,0
+All here.,0
+That’s nice!,0
+So neat!,0
